@@ -527,12 +527,12 @@ footer{
         font-family: futura;
     }
     #links a{
-        font-size: 5vw;
+        font-size: 4.5vw;
         margin: 0vw 4vw;
         padding: 1vw;
         border-radius: 4px;
         border: 1px solid;
-        color: white;
+        color: black;
     }
     #links{
         border-bottom: none;
